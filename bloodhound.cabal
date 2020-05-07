@@ -16,8 +16,6 @@ extra-source-files:
   README.md
   changelog.md
   -- We do this to avoid package check errors when uploading to hackage
-  tests/V1/tests.hs
-  tests/V5/tests.hs
 
 source-repository head
   type:     git
